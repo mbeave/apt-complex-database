@@ -1,3 +1,6 @@
+/*
+    drops views and tables from database
+*/
 
 drop view openold;
 drop view noref;

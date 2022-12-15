@@ -1,3 +1,6 @@
+/*    
+    removes the most prevalent special feature that appears in the new buildings
+*/
 
 delete from special_features 
 where special_features = (select max(special_features) 
