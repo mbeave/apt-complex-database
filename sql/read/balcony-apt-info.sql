@@ -1,5 +1,7 @@
 /*
     of the apt's with a balcony, list the selected values
+
+    note: "column" is an SQL Plus command. LiveSQL or other online compiler won't understand this command.
 */
 
 column 'floor_plan' format a10;
